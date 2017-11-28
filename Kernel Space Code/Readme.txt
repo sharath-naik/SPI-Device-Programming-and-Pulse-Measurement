@@ -1,11 +1,4 @@
-CSE 438:Embedded System Programming 
-Assignment 3-Part 2
-
-Team 5
-Rama Kumar Kana Sundara
-ASU ID:1213347614
 Sharath Renjit Naik
-ASU ID:1213340750
 
 Files in folder:
 1.main.c -is the main program.
